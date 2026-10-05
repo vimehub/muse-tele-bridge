@@ -187,7 +187,7 @@ muse-tele-bridge/
 
 ## Author
 
-**Wahyu Nur Iman** — https://github.com/wahyunuriman999
+**vimehub** — https://github.com/vimehub
 
 ## License
 
