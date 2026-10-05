@@ -68,7 +68,7 @@ echo "=== Next step: register the hook ==="
 echo "Paste this to your Muse in chat:"
 echo
 cat << 'MSG'
-Please set up my Telegram bridge from https://github.com/wahyunuriman999/muse-tele-bridge :
+Please set up my Telegram bridge from https://github.com/vimehub/muse-tele-bridge :
 1. I already ran install.sh — config is at ~/.config/muse-tele-bridge/config
    and scripts are in ~/hooks/scripts/ + ~/workspace/telegram-muse-bridge/.
 2. Register an event hook from ~/hooks/scripts/telegram-inbox.sh that polls
